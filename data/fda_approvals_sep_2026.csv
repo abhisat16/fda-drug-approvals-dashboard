@@ -1,0 +1,381 @@
+approval_date,drug,application_type,application_no,submission,active_ingredient,company,fda_submission_class,status,therapeutic_area,approval_type,repeat_row
+2026-09-01,CLEOCIN HYDROCHLORIDE,NDA,050162,SUPPL-108,CLINDAMYCIN HYDROCHLORIDE,PFIZER,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-01,FULVICIN P/G,ANDA,061996,SUPPL-9,"GRISEOFULVIN, ULTRAMICROSIZE",CHARTWELL RX,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-01,FULVICIN P/G 165,ANDA,061996,SUPPL-9,"GRISEOFULVIN, ULTRAMICROSIZE",CHARTWELL RX,Labeling,Approval,Infectious disease,Labeling / manufacturing update,1
+2026-09-01,FULVICIN P/G 330,ANDA,061996,SUPPL-9,"GRISEOFULVIN, ULTRAMICROSIZE",CHARTWELL RX,Labeling,Approval,Infectious disease,Labeling / manufacturing update,1
+2026-09-01,NEVIRAPINE,ANDA,205651,SUPPL-9,NEVIRAPINE,MYLAN,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-01,LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE,ANDA,208475,SUPPL-1,EPINEPHRINE; LIDOCAINE HYDROCHLORIDE,B BRAUN MEDICAL,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-01,DOXEPIN HYDROCHLORIDE,ANDA,211619,SUPPL-1,DOXEPIN HYDROCHLORIDE,LEADING,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-01,NELARABINE,ANDA,216038,SUPPL-4,NELARABINE,MEITHEAL,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-01,KRAZATI,NDA,216340,SUPPL-11,ADAGRASIB,BRISTOL,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-01,SHEUR,ANDA,217650,ORIG-1,"ELAGOLIX, ESTRADIOL AND NORETHINDRONE ACETATE AND ELAGOLIX",TEVA PHARM,Not classified,Tentative Approval,Women's health & Urology,Tentative approval,0
+2026-09-01,LUMATEPERONE TOSYLATE,ANDA,218652,ORIG-1,LUMATEPERONE,ZYDUS PHARMACEUTICALS (USA) INC.,Not classified,Tentative Approval,Psychiatry,Tentative approval,0
+2026-09-01,BYOOVIZ,BLA,761202,SUPPL-20,RANIBIZUMAB-NUNA,SAMSUNG BIOEPIS CO LTD,Not classified,Approval,Ophthalmology,Labeling / manufacturing update,0
+2026-09-02,ETOPOPHOS PRESERVATIVE FREE,NDA,020457,SUPPL-20,ETOPOSIDE PHOSPHATE,CHEPLAPHARM,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-02,THALOMID,NDA,020785,SUPPL-74,THALIDOMIDE,BRISTOL-MYERS,REMS,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-02,OXCARBAZEPINE,ANDA,078734,SUPPL-12,OXCARBAZEPINE,SUN PHARM INDS LTD,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-02,BUPROPION HYDROCHLORIDE,ANDA,079095,SUPPL-35,BUPROPION HYDROCHLORIDE,ACTAVIS LABS FL INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-02,BUPROPION HYDROCHLORIDE,ANDA,079095,SUPPL-36,BUPROPION HYDROCHLORIDE,ACTAVIS LABS FL INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-02,BUPROPION HYDROCHLORIDE,ANDA,079095,SUPPL-39,BUPROPION HYDROCHLORIDE,ACTAVIS LABS FL INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-02,BUPROPION HYDROCHLORIDE,ANDA,079095,SUPPL-44,BUPROPION HYDROCHLORIDE,ACTAVIS LABS FL INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-02,DIVALPROEX SODIUM,ANDA,090062,SUPPL-18,DIVALPROEX SODIUM,PHARMOBEDIENT,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-02,POMALIDOMIDE,ANDA,210245,ORIG-1,POMALIDOMIDE,MSN,Not classified,Approval,Oncology,New generic,0
+2026-09-02,DAPAGLIFLOZIN,ANDA,211482,SUPPL-1,DAPAGLIFLOZIN,AJANTA PHARMA LTD,Manufacturing (CMC),Approval,Endocrine & Metabolic,Labeling / manufacturing update,0
+2026-09-02,THALIDOMIDE,ANDA,213267,SUPPL-2,THALIDOMIDE,NATCO,REMS,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-02,FYARRO,NDA,213312,SUPPL-14,SIROLIMUS,AADI,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-02,SACUBITRIL AND VALSARTAN,ANDA,213631,ORIG-1,SACUBITRIL; VALSARTAN,AUROBINDO PHARMA LTD,Not classified,Approval,Cardiovascular & Renal,New generic,0
+2026-09-02,CIBINQO,NDA,213871,SUPPL-3,ABROCITINIB,PFIZER,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-02,ALENDRONATE SODIUM,ANDA,214523,ORIG-1,ALENDRONATE SODIUM,PRECISION DOSE INC,Not classified,Approval,Musculoskeletal & Bone,New generic,0
+2026-09-02,PIMAVANSERIN,ANDA,214750,ORIG-1,PIMAVANSERIN,TEVA PHARMS USA,Not classified,Tentative Approval,Psychiatry,Tentative approval,0
+2026-09-02,RELUGOLIX,ANDA,219913,ORIG-1,RELUGOLIX,SANDOZ INC,Not classified,Tentative Approval,Oncology,Tentative approval,0
+2026-09-02,AVTOZMA,BLA,761420,SUPPL-6,TOCILIZUMAB-ANOH,CELLTRION INC,Not classified,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-02,AVTOZMA,BLA,761498,SUPPL-1,TOCILIZUMAB-ANOH,CELLTRION INC,Not classified,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-03,ACYCLOVIR,ANDA,202168,SUPPL-4,ACYCLOVIR,CADILA PHARMS LTD,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-03,MODAFINIL,ANDA,208343,ORIG-1,MODAFINIL,LUPIN,Not classified,Approval,Neurology,New generic,0
+2026-09-03,TESTOSTERONE CYPIONATE,ANDA,219478,ORIG-1,TESTOSTERONE CYPIONATE,BPI LABS,Not classified,Approval,Endocrine & Metabolic,New generic,0
+2026-09-03,ZANVASTRO,NDA,220210,ORIG-1,ZILGANERSEN SODIUM,IONIS PHARMS INC,Type 1 - New Molecular Entity,Approval,Neurology,Novel drug (new molecule),0
+2026-09-03,OMCAZIO,NDA,220613,ORIG-1,CABOZANTINIB LAURYLSULFATE,HANDA ONCOL,Type 5 - New Formulation or New Manufacturer,Approval,Oncology,New formulation / dosage form,0
+2026-09-03,TAPENTADOL HYDROCHLORIDE,ANDA,220865,ORIG-1,TAPENTADOL HYDROCHLORIDE,MSN,Not classified,Approval,Pain & Anesthesia,New generic,0
+2026-09-03,UPLIZNA,BLA,761142,SUPPL-5,INEBILIZUMAB-CDON,VIELA BIO,Not classified,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-04,DEXTROMETHORPHAN HYDROBROMIDE AND QUINIDINE SULFATE,ANDA,202934,SUPPL-3,DEXTROMETHORPHAN HYDROBROMIDE; QUINIDINE SULFATE,ACTAVIS ELIZABETH,Manufacturing (CMC),Approval,Neurology,Labeling / manufacturing update,0
+2026-09-04,LACOSAMIDE,ANDA,208308,SUPPL-14,LACOSAMIDE,REGCON HOLDINGS,Manufacturing (CMC),Approval,Neurology,Labeling / manufacturing update,0
+2026-09-04,MINOXIDIL (FOR MEN),ANDA,209074,SUPPL-3,MINOXIDIL,TARO,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-04,MINOXIDIL (FOR MEN),ANDA,209074,SUPPL-9,MINOXIDIL,TARO,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-04,MINOXIDIL (FOR WOMEN),ANDA,209074,SUPPL-3,MINOXIDIL,TARO,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,1
+2026-09-04,MINOXIDIL (FOR WOMEN),ANDA,209074,SUPPL-9,MINOXIDIL,TARO,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,1
+2026-09-04,NITROFURANTOIN,ANDA,216385,SUPPL-7,NITROFURANTOIN,NOVITIUM PHARMA,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-04,TOPIRAMATE,ANDA,219183,ORIG-1,TOPIRAMATE,MICRO LABS,Not classified,Approval,Neurology,New generic,0
+2026-09-04,ETCAMAH,NDA,220359,ORIG-1,CAMIZESTRANT,ASTRAZENECA,Type 1 - New Molecular Entity,Approval,Oncology,Novel drug (new molecule),0
+2026-09-08,TRIAMCINOLONE ACETONIDE,ANDA,040671,SUPPL-15,TRIAMCINOLONE ACETONIDE,MICRO LABS,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-08,IBRUTINIB,ANDA,211182,ORIG-1,IBRUTINIB,HETERO LABS LTD V,Not classified,Approval,Oncology,New generic,0
+2026-09-08,BRIVARACETAM,ANDA,220136,ORIG-1,BRIVARACETAM,ZHEJIANG JUTAI PHARM,Not classified,Approval,Neurology,New generic,0
+2026-09-08,TIVOZANIB,ANDA,220307,ORIG-1,TIVOZANIB,GLENMARK PHARMACEUTICALS LIMITED,Not classified,Tentative Approval,Oncology,Tentative approval,0
+2026-09-09,ROPINIROLE HYDROCHLORIDE,ANDA,090429,SUPPL-16,ROPINIROLE HYDROCHLORIDE,ALEMBIC LTD,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-09,ROPINIROLE HYDROCHLORIDE,ANDA,090429,SUPPL-19,ROPINIROLE HYDROCHLORIDE,ALEMBIC LTD,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-09,AMELUZ,NDA,208081,SUPPL-40,AMINOLEVULINIC ACID HYDROCHLORIDE,BIOFRONTERA,Efficacy,Approval,Immunology & Dermatology,New indication (efficacy supplement),0
+2026-09-09,HYRNUO,NDA,219972,SUPPL-1,SEVABERTINIB,BAYER HEALTHCARE,Efficacy,Approval,Oncology,New indication (efficacy supplement),0
+2026-09-10,HYDROMORPHONE HYDROCHLORIDE,ANDA,074597,SUPPL-20,HYDROMORPHONE HYDROCHLORIDE,HIKMA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-10,HYDROMORPHONE HYDROCHLORIDE,ANDA,074597,SUPPL-22,HYDROMORPHONE HYDROCHLORIDE,HIKMA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-10,HYDROMORPHONE HYDROCHLORIDE,ANDA,074597,SUPPL-23,HYDROMORPHONE HYDROCHLORIDE,HIKMA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-10,HYDROMORPHONE HYDROCHLORIDE,ANDA,074653,SUPPL-15,HYDROMORPHONE HYDROCHLORIDE,HIKMA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-10,HYDROMORPHONE HYDROCHLORIDE,ANDA,074653,SUPPL-18,HYDROMORPHONE HYDROCHLORIDE,HIKMA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-10,HYDROMORPHONE HYDROCHLORIDE,ANDA,074653,SUPPL-20,HYDROMORPHONE HYDROCHLORIDE,HIKMA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-10,ASENAPINE MALEATE,ANDA,206098,SUPPL-13,ASENAPINE MALEATE,ALEMBIC,Manufacturing (CMC),Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-10,ANNOVERA,NDA,209627,SUPPL-8,ETHINYL ESTRADIOL; SEGESTERONE ACETATE,MAYNE PHARMA,Labeling,Approval,Women's health & Urology,Labeling / manufacturing update,0
+2026-09-10,LISDEXAMFETAMINE DIMESYLATE,ANDA,216266,SUPPL-3,LISDEXAMFETAMINE DIMESYLATE,PRINSTON INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-10,LISDEXAMFETAMINE DIMESYLATE,ANDA,216266,SUPPL-4,LISDEXAMFETAMINE DIMESYLATE,PRINSTON INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-10,LISDEXAMFETAMINE DIMESYLATE,ANDA,217068,SUPPL-8,LISDEXAMFETAMINE DIMESYLATE,ASCENT PHARMS INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-10,LISDEXAMFETAMINE DIMESYLATE,ANDA,217068,SUPPL-9,LISDEXAMFETAMINE DIMESYLATE,ASCENT PHARMS INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-10,LISDEXAMFETAMINE DIMESYLATE,ANDA,217442,SUPPL-9,LISDEXAMFETAMINE DIMESYLATE,ASCENT PHARMS INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-10,LISDEXAMFETAMINE DIMESYLATE,ANDA,218987,SUPPL-6,LISDEXAMFETAMINE DIMESYLATE,GRANULES,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-10,LISDEXAMFETAMINE DIMESYLATE,ANDA,218987,SUPPL-10,LISDEXAMFETAMINE DIMESYLATE,GRANULES,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-10,ISOTRETINOIN,ANDA,220336,ORIG-1,ISOTRETINOIN,AUROBINDO PHARMA LTD,Not classified,Approval,Immunology & Dermatology,New generic,0
+2026-09-10,SPIRONOLACTONE AND HYDROCHLOROTHIAZIDE,ANDA,220884,ORIG-1,HYDROCHLOROTHIAZIDE; SPIRONOLACTONE,RUBICON RESEARCH,Not classified,Approval,Cardiovascular & Renal,New generic,0
+2026-09-11,ETHOSUXIMIDE,ANDA,040506,SUPPL-5,ETHOSUXIMIDE,CHARTWELL RX,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-11,ETHOSUXIMIDE,ANDA,040506,SUPPL-7,ETHOSUXIMIDE,CHARTWELL RX,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-11,CARBIDOPA AND LEVODOPA,ANDA,074260,SUPPL-70,CARBIDOPA; LEVODOPA,ACTAVIS ELIZABETH,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-11,PACLITAXEL,ANDA,075184,SUPPL-22,PACLITAXEL,TEVA PHARMS,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076412,SUPPL-27,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076412,SUPPL-30,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076412,SUPPL-34,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076412,SUPPL-37,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076412,SUPPL-44,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076412,SUPPL-48,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076438,SUPPL-24,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076438,SUPPL-27,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076438,SUPPL-30,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076438,SUPPL-36,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076438,SUPPL-42,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,MORPHINE SULFATE,ANDA,076438,SUPPL-45,MORPHINE SULFATE,SPECGX LLC,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-11,CARBIDOPA AND LEVODOPA,ANDA,078536,SUPPL-28,CARBIDOPA; LEVODOPA,SUN PHARM INDS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-11,GABAPENTIN,ANDA,090705,SUPPL-38,GABAPENTIN,INVAGEN PHARMS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-11,PENTOSTATIN,ANDA,203554,SUPPL-3,PENTOSTATIN,RISING,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-11,POLYETHYLENE GLYCOL 3350,ANDA,203928,SUPPL-19,POLYETHYLENE GLYCOL 3350,STRIDES PHARMA,Manufacturing (CMC),Approval,Gastroenterology,Labeling / manufacturing update,0
+2026-09-11,KYBELLA,NDA,206333,SUPPL-6,DEOXYCHOLIC ACID,ABBVIE,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-11,KYBELLA,NDA,206333,SUPPL-7,DEOXYCHOLIC ACID,ABBVIE,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-11,ITRACONAZOLE,ANDA,208481,SUPPL-5,ITRACONAZOLE,APOTEX,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-11,METOCLOPRAMIDE HYDROCHLORIDE,ANDA,217072,ORIG-1,METOCLOPRAMIDE HYDROCHLORIDE,BAXTER HLTHCARE CORP,Not classified,Approval,Gastroenterology,New generic,0
+2026-09-11,JOENJA,NDA,217759,SUPPL-6,LENIOLISIB PHOSPHATE,PHARMING,Efficacy,Approval,Immunology & Dermatology,New indication (efficacy supplement),0
+2026-09-11,SIPONIMOD,ANDA,218444,SUPPL-1,SIPONIMOD,RICONPHARMA LLC,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-11,SIPONIMOD,ANDA,218444,SUPPL-2,SIPONIMOD,RICONPHARMA LLC,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-11,PIXCLARA,NDA,218592,ORIG-1,FLORETYROSINE F-18,TELIX,Type 1 - New Molecular Entity,Approval,Oncology,Novel drug (new molecule),0
+2026-09-11,HYDROXYZINE HYDROCHLORIDE,ANDA,219561,ORIG-1,HYDROXYZINE HYDROCHLORIDE,RUBICON RESEARCH,Not classified,Approval,Respiratory & Allergy,New generic,0
+2026-09-11,DASATINIB,ANDA,219579,ORIG-1,DASATINIB,MSN,Not classified,Approval,Oncology,New generic,0
+2026-09-11,IMDELLTRA,BLA,761344,SUPPL-2,TARLATAMAB-DLLE,AMGEN INC,Not classified,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-11,ISEMBYLD,BLA,761463,ORIG-1,APITEGROMAB-MSTN,SCHOLAR ROCK INC,Not classified,Approval,Neurology,Novel drug (new molecule),0
+2026-09-14,METHADONE HYDROCHLORIDE,ANDA,040088,SUPPL-33,METHADONE HYDROCHLORIDE,VISTAPHARM LLC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-14,COLISTIMETHATE SODIUM,ANDA,201365,SUPPL-6,COLISTIMETHATE SODIUM,SAGENT PHARMS INC,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-14,COLISTIMETHATE SODIUM,ANDA,202359,SUPPL-13,COLISTIMETHATE SODIUM,AVET LIFESCIENCES,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-14,PRIMAQUINE PHOSPHATE,ANDA,203924,SUPPL-2,PRIMAQUINE PHOSPHATE,ALVOGEN,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-14,PRIMAQUINE PHOSPHATE,ANDA,204476,SUPPL-7,PRIMAQUINE PHOSPHATE,UNICHEM,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-14,ITRACONAZOLE,ANDA,205080,SUPPL-20,ITRACONAZOLE,AMNEAL PHARMS,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-14,ITRACONAZOLE,ANDA,206741,SUPPL-22,ITRACONAZOLE,ALEMBIC,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-14,TAGRISSO,NDA,208065,SUPPL-35,OSIMERTINIB MESYLATE,ASTRAZENECA,Efficacy,Approval,Oncology,New indication (efficacy supplement),0
+2026-09-14,TAGRISSO,NDA,208065,SUPPL-36,OSIMERTINIB MESYLATE,ASTRAZENECA,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-14,DOXYCYCLINE HYCLATE,ANDA,211343,SUPPL-10,DOXYCYCLINE HYCLATE,CHANGZHOU PHARM,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-14,CLOBAZAM,ANDA,211711,SUPPL-7,CLOBAZAM,MICRO LABS,Manufacturing (CMC),Approval,Neurology,Labeling / manufacturing update,0
+2026-09-14,NEOSTIGMINE METHYLSULFATE,ANDA,212968,SUPPL-2,NEOSTIGMINE METHYLSULFATE,GLAND,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-14,EVRYSDI,NDA,213535,SUPPL-18,RISDIPLAM,GENENTECH INC,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-14,BECLOMETHASONE DIPROPIONATE,ANDA,214418,ORIG-1,BECLOMETHASONE DIPROPIONATE,AUROLIFE PHARMA LLC,Not classified,Approval,Respiratory & Allergy,New generic,0
+2026-09-14,SITAGLIPTIN AND METFORMIN HYDROCHLORIDE,ANDA,216644,ORIG-1,"SITAGLIPTIN, METFORMIN HYDROCHLORIDE",ANNORA PHARMA PRIVATE LIMITED,Not classified,Tentative Approval,Endocrine & Metabolic,Tentative approval,0
+2026-09-14,HALOPERIDOL,ANDA,218210,ORIG-1,HALOPERIDOL,AJANTA PHARMA LTD,Not classified,Approval,Psychiatry,New generic,0
+2026-09-14,BEXLUTRY,NDA,218525,ORIG-1,LUTETIUM LU-177 DOTATATE,CURIUM,Type 5 - New Formulation or New Manufacturer,Approval,Oncology,New formulation / dosage form,0
+2026-09-14,EVRYSDI,NDA,219285,SUPPL-3,RISDIPLAM,GENENTECH INC,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-14,EPINEPHRINE,ANDA,219832,ORIG-1,EPINEPHRINE,ZYDUS PHARMS,Not classified,Approval,Respiratory & Allergy,New generic,0
+2026-09-14,LETROZOLE,ANDA,220438,ORIG-1,LETROZOLE,ZYDUS LIFESCIENCES,Not classified,Approval,Oncology,New generic,0
+2026-09-15,AMNESTEEM,ANDA,075945,SUPPL-45,ISOTRETINOIN,MYLAN PHARMS INC,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-15,KETAMINE HYDROCHLORIDE,ANDA,076092,SUPPL-31,KETAMINE HYDROCHLORIDE,EUGIA PHARMA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-15,CARBAMAZEPINE,ANDA,078592,SUPPL-6,CARBAMAZEPINE,TEVA PHARMS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-15,PRAMIPEXOLE DIHYDROCHLORIDE,ANDA,090241,SUPPL-6,PRAMIPEXOLE DIHYDROCHLORIDE,CHARTWELL RX,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-15,LETROZOLE,ANDA,090292,SUPPL-1,LETROZOLE,ACTAVIS TOTOWA,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-15,TIGECYCLINE,ANDA,091620,SUPPL-14,TIGECYCLINE,SANDOZ,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-15,JYNARQUE,NDA,204441,SUPPL-16,TOLVAPTAN,OTSUKA,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-15,MILNACIPRAN HYDROCHLORIDE,ANDA,207399,ORIG-1,MILNACIPRAN HYDROCHLORIDE,STRIDES PHARMA,Not classified,Approval,Pain & Anesthesia,New generic,0
+2026-09-15,TESTOSTERONE,ANDA,209390,SUPPL-11,TESTOSTERONE,TWI PHARMS,Labeling,Approval,Endocrine & Metabolic,Labeling / manufacturing update,0
+2026-09-15,MILNACIPRAN HYDROCHLORIDE,ANDA,210944,ORIG-1,MILNACIPRAN HYDROCHLORIDE,MACLEODS PHARMS,Not classified,Approval,Pain & Anesthesia,New generic,0
+2026-09-15,"DEXTROAMP SACCHARATE, AMP ASPARTATE, DEXTROAMP SULFATE AND AMP SULFATE",ANDA,211715,SUPPL-12,AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE,SUN PHARM INDUSTRIES,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-15,TIGECYCLINE,ANDA,214020,SUPPL-6,TIGECYCLINE,MEITHEAL,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-15,TRETINOIN,ANDA,218560,ORIG-1,TRETINOIN,ZYDUS LIFESCIENCES,Not classified,Approval,Immunology & Dermatology,New generic,0
+2026-09-15,EPINEPHRINE,ANDA,220657,ORIG-1,EPINEPHRINE,APOTEX,Not classified,Approval,Respiratory & Allergy,New generic,0
+2026-09-15,GARZULYS,BLA,761497,ORIG-2,INSULIN ASPART-FSAN,EMERGE BIOSCIENCE PTE. LTD.,Not classified,Approval,Endocrine & Metabolic,New biosimilar,0
+2026-09-16,ZORTRESS,NDA,021560,SUPPL-34,EVEROLIMUS,NOVARTIS,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-16,MELOXICAM,ANDA,078008,SUPPL-28,MELOXICAM,AUROBINDO PHARMA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-16,CALCITRIOL,ANDA,091356,SUPPL-11,CALCITRIOL,ONESOURCE SPECIALTY,Manufacturing (CMC),Approval,Endocrine & Metabolic,Labeling / manufacturing update,0
+2026-09-16,GLUCAGON,NDA,201849,SUPPL-27,GLUCAGON HYDROCHLORIDE,FRESENIUS KABI USA,Labeling,Approval,Endocrine & Metabolic,Labeling / manufacturing update,0
+2026-09-16,TRANEXAMIC ACID,ANDA,202436,SUPPL-11,TRANEXAMIC ACID,HERITAGE,Labeling,Approval,Hematology (non-cancer),Labeling / manufacturing update,0
+2026-09-16,OLANZAPINE,ANDA,202862,SUPPL-56,OLANZAPINE,MACLEODS PHARMS LTD,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-16,METHYLPHENIDATE HYDROCHLORIDE,ANDA,202892,SUPPL-6,METHYLPHENIDATE HYDROCHLORIDE,OXFORD PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-16,METHYLPHENIDATE HYDROCHLORIDE,ANDA,202892,SUPPL-9,METHYLPHENIDATE HYDROCHLORIDE,OXFORD PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-16,METHYLPHENIDATE HYDROCHLORIDE,ANDA,202892,SUPPL-13,METHYLPHENIDATE HYDROCHLORIDE,OXFORD PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-16,XELJANZ,NDA,203214,SUPPL-42,TOFACITINIB CITRATE,PF PRISM CV,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-16,DEXTROAMPHETAMINE SULFATE,ANDA,205077,SUPPL-3,DEXTROAMPHETAMINE SULFATE,STRIDES PHARMA,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-16,XELJANZ XR,NDA,208246,SUPPL-28,TOFACITINIB CITRATE,PFIZER,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-16,GABAPENTIN,ANDA,211330,SUPPL-7,GABAPENTIN,PAI HOLDINGS PHARM,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-16,GABAPENTIN,ANDA,211330,SUPPL-8,GABAPENTIN,PAI HOLDINGS PHARM,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-16,XELJANZ,NDA,213082,SUPPL-15,TOFACITINIB CITRATE,PFIZER,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-16,KERENDIA,NDA,215341,SUPPL-11,FINERENONE,BAYER HLTHCARE,Efficacy,Approval,Cardiovascular & Renal,New indication (efficacy supplement),0
+2026-09-16,ALBUTEROL SULFATE,ANDA,215571,SUPPL-6,ALBUTEROL SULFATE,LEXENPHARM,Manufacturing (CMC),Approval,Respiratory & Allergy,Labeling / manufacturing update,0
+2026-09-16,TRUQAP,NDA,218197,SUPPL-6,CAPIVASERTIB,ASTRAZENECA,Efficacy,Approval,Oncology,New indication (efficacy supplement),0
+2026-09-16,IBTROZI,NDA,219713,SUPPL-4,TALETRECTINIB ADIPATE,NUVATION,Efficacy,Approval,Oncology,New indication (efficacy supplement),0
+2026-09-17,IMATINIB MESYLATE,ANDA,079179,SUPPL-22,IMATINIB MESYLATE,APOTEX,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-17,IMATINIB MESYLATE,ANDA,079179,SUPPL-24,IMATINIB MESYLATE,APOTEX,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-17,TOPIRAMATE,ANDA,090162,SUPPL-32,TOPIRAMATE,UNICHEM LABS LTD,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-17,TOPIRAMATE,ANDA,090162,SUPPL-34,TOPIRAMATE,UNICHEM LABS LTD,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-17,PALONOSETRON HYDROCHLORIDE,ANDA,090713,SUPPL-3,PALONOSETRON HYDROCHLORIDE,TEVA PHARMS USA,Labeling,Approval,Gastroenterology,Labeling / manufacturing update,0
+2026-09-17,SULFAMETHOXAZOLE AND TRIMETHOPRIM,ANDA,090828,SUPPL-7,SULFAMETHOXAZOLE; TRIMETHOPRIM,GLENMARK PHARMS LTD,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-17,SULFAMETHOXAZOLE AND TRIMETHOPRIM,ANDA,090828,SUPPL-8,SULFAMETHOXAZOLE; TRIMETHOPRIM,GLENMARK PHARMS LTD,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-17,CLONIDINE HYDROCHLORIDE,ANDA,091368,SUPPL-24,CLONIDINE HYDROCHLORIDE,ALEMBIC PHARMS LTD,Manufacturing (CMC),Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-17,LEVOCETIRIZINE DIHYDROCHLORIDE,ANDA,202915,SUPPL-11,LEVOCETIRIZINE DIHYDROCHLORIDE,APOTEX,Labeling,Approval,Respiratory & Allergy,Labeling / manufacturing update,0
+2026-09-17,LEVOCETIRIZINE DIHYDROCHLORIDE,ANDA,203027,SUPPL-13,LEVOCETIRIZINE DIHYDROCHLORIDE,APOTEX,Labeling,Approval,Respiratory & Allergy,Labeling / manufacturing update,0
+2026-09-17,AMABELZ,ANDA,203339,SUPPL-15,ESTRADIOL; NORETHINDRONE ACETATE,LUPIN,Labeling,Approval,Women's health & Urology,Labeling / manufacturing update,0
+2026-09-17,DEXTROAMPHETAMINE SULFATE,ANDA,203901,SUPPL-26,DEXTROAMPHETAMINE SULFATE,ACTAVIS ELIZABETH,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-17,ICOSAPENT ETHYL,ANDA,209437,SUPPL-5,ICOSAPENT ETHYL,APOTEX,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-17,LACOSAMIDE,ANDA,209465,SUPPL-8,LACOSAMIDE,ZYDUS PHARMS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-17,SPRAVATO,NDA,211243,SUPPL-26,ESKETAMINE HYDROCHLORIDE,JANSSEN PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-17,DAPTOMYCIN,ANDA,213396,SUPPL-1,DAPTOMYCIN,FRESENIUS KABI USA,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-17,CALCIUM GLUCONATE IN SODIUM CHLORIDE,ANDA,217891,ORIG-1,CALCIUM GLUCONATE,CIPLA,Not classified,Approval,"Fluids, nutrition & other",New generic,0
+2026-09-17,CYCLOSPORINE,ANDA,219652,ORIG-1,CYCLOSPORINE,AUROBINDO PHARMA LTD,Not classified,Approval,Immunology & Dermatology,New generic,0
+2026-09-17,EMPAGLIFLOZIN,NDA,220758,ORIG-1,EMPAGLIFLOZIN,"RIDHISIDHI, PLLC",Type 3 - New Dosage Form,Tentative Approval,Endocrine & Metabolic,Tentative approval,0
+2026-09-18,DICLOFENAC POTASSIUM,ANDA,075229,SUPPL-33,DICLOFENAC POTASSIUM,RUBICON RESEARCH,Manufacturing (CMC),Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-18,VERZENIO,NDA,208716,SUPPL-22,ABEMACICLIB,ELI LILLY AND CO,Efficacy,Approval,Oncology,New indication (efficacy supplement),0
+2026-09-18,SOHONOS,NDA,215559,SUPPL-3,PALOVAROTENE,IPSEN,Labeling,Approval,Musculoskeletal & Bone,Labeling / manufacturing update,0
+2026-09-18,LANREOTIDE ACETATE,ANDA,218217,ORIG-1,LANREOTIDE ACETATE,AMNEAL,Not classified,Approval,Endocrine & Metabolic,New generic,0
+2026-09-18,INLURIYO,NDA,218881,SUPPL-1,IMLUNESTRANT TOSYLATE,ELI LILLY AND CO,Efficacy,Approval,Oncology,New indication (efficacy supplement),0
+2026-09-18,AQNEURSA,NDA,219132,SUPPL-2,LEVACETYLLEUCINE,INTRABIO,Efficacy,Approval,Neurology,New indication (efficacy supplement),0
+2026-09-18,ROCURONIUM BROMIDE,ANDA,219260,ORIG-1,ROCURONIUM BROMIDE,BAXTER HLTHCARE CORP,Not classified,Approval,Pain & Anesthesia,New generic,0
+2026-09-18,DEFLAZACORT,ANDA,220524,ORIG-1,DEFLAZACORT,HIKMA,Not classified,Approval,Neurology,New generic,0
+2026-09-21,DIVALPROEX SODIUM,ANDA,090070,SUPPL-26,DIVALPROEX SODIUM,REDDYS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-21,DIVALPROEX SODIUM,ANDA,090070,SUPPL-27,DIVALPROEX SODIUM,REDDYS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-21,DIVALPROEX SODIUM,ANDA,090161,SUPPL-26,DIVALPROEX SODIUM,DR REDDYS LABS LTD,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-21,DIVALPROEX SODIUM,ANDA,090161,SUPPL-27,DIVALPROEX SODIUM,DR REDDYS LABS LTD,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-21,VALACYCLOVIR HYDROCHLORIDE,ANDA,090682,SUPPL-27,VALACYCLOVIR HYDROCHLORIDE,AUROBINDO PHARMA,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-21,NEVIRAPINE,ANDA,090688,SUPPL-18,NEVIRAPINE,MACLEODS PHARMS,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-21,ACETAZOLAMIDE,ANDA,090779,SUPPL-7,ACETAZOLAMIDE,INDICUS PHARMA,Labeling,Approval,Ophthalmology,Labeling / manufacturing update,0
+2026-09-21,ACETAZOLAMIDE,ANDA,090779,SUPPL-12,ACETAZOLAMIDE,INDICUS PHARMA,Labeling,Approval,Ophthalmology,Labeling / manufacturing update,0
+2026-09-21,DULOXETINE HYDROCHLORIDE,ANDA,203088,SUPPL-42,DULOXETINE HYDROCHLORIDE,BRECKENRIDGE,Manufacturing (CMC),Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-21,PALONOSETRON HYDROCHLORIDE,ANDA,206801,SUPPL-2,PALONOSETRON HYDROCHLORIDE,FRESENIUS KABI USA,Labeling,Approval,Gastroenterology,Labeling / manufacturing update,0
+2026-09-21,PALONOSETRON HYDROCHLORIDE,ANDA,206802,SUPPL-2,PALONOSETRON HYDROCHLORIDE,FRESENIUS KABI USA,Labeling,Approval,Gastroenterology,Labeling / manufacturing update,0
+2026-09-21,BRAVNETSA,ANDA,217060,ORIG-1,LUTETIUM LU-177 DOTATATE,LANTHEUS MEDICAL,Not classified,Approval,Oncology,New generic,0
+2026-09-21,EVEROLIMUS,ANDA,220597,ORIG-1,EVEROLIMUS,NOVITIUM PHARMA,Not classified,Approval,Oncology,New generic,0
+2026-09-21,WINREVAIR,BLA,761363,SUPPL-12,SOTATERCEPT-CSRK,MERCK SHARP DOHME,Not classified,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-21,WINREVAIR,BLA,761363,SUPPL-16,SOTATERCEPT-CSRK,MERCK SHARP DOHME,Not classified,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-21,WINREVAIR,BLA,761363,SUPPL-17,SOTATERCEPT-CSRK,MERCK SHARP DOHME,Not classified,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-22,KETAMINE HYDROCHLORIDE,ANDA,076092,SUPPL-32,KETAMINE HYDROCHLORIDE,EUGIA PHARMA,Manufacturing (CMC),Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-22,RISPERIDONE,ANDA,077328,SUPPL-16,RISPERIDONE,PHARMAZONE,Manufacturing (CMC),Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-22,QUETIAPINE FUMARATE,ANDA,090681,SUPPL-17,QUETIAPINE FUMARATE,ACCORD HLTHCARE,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-22,PANTOPRAZOLE SODIUM,ANDA,090807,SUPPL-14,PANTOPRAZOLE SODIUM,RUBICON RESEARCH,Labeling,Approval,Gastroenterology,Labeling / manufacturing update,0
+2026-09-22,MYCOPHENOLATE SODIUM,ANDA,091558,SUPPL-27,MYCOPHENOLATE SODIUM,APOTEX INC,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-22,MYCOPHENOLATE SODIUM,ANDA,091558,SUPPL-30,MYCOPHENOLATE SODIUM,APOTEX INC,Labeling,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-22,ATORVASTATIN CALCIUM,ANDA,204846,SUPPL-2,ATORVASTATIN CALCIUM,INVAGEN PHARMS,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-22,ATORVASTATIN CALCIUM,ANDA,204846,SUPPL-4,ATORVASTATIN CALCIUM,INVAGEN PHARMS,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-22,ATORVASTATIN CALCIUM,ANDA,204846,SUPPL-5,ATORVASTATIN CALCIUM,INVAGEN PHARMS,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-22,ATORVASTATIN CALCIUM,ANDA,204846,SUPPL-7,ATORVASTATIN CALCIUM,INVAGEN PHARMS,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-22,TELMISARTAN AND AMLODIPINE,ANDA,205234,SUPPL-3,AMLODIPINE BESYLATE; TELMISARTAN,ALEMBIC,Manufacturing (CMC),Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-22,PREXXARTAN,NDA,209139,SUPPL-4,VALSARTAN,CARMEL BIOSCIENCES,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-22,AMLODIPINE BESYLATE,ANDA,210489,ORIG-1,AMLODIPINE BESYLATE,IPCA LABS LTD,Not classified,Approval,Cardiovascular & Renal,New generic,0
+2026-09-22,NUBEQA,NDA,212099,SUPPL-16,DAROLUTAMIDE,BAYER HEALTHCARE,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-22,EMPAGLIFLOZIN,ANDA,212330,ORIG-1,EMPAGLIFLOZIN,INVAGEN PHARMS,Not classified,Approval,Endocrine & Metabolic,New generic,0
+2026-09-22,SCEMBLIX,NDA,215358,SUPPL-15,ASCIMINIB HYDROCHLORIDE,NOVARTIS,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-22,EPINEPHRINE,ANDA,219239,SUPPL-2,EPINEPHRINE,GLAND,Manufacturing (CMC),Approval,Respiratory & Allergy,Labeling / manufacturing update,0
+2026-09-22,HYDROCODONE BITARTRATE AND HOMATROPINE METHYLBROMIDE,ANDA,220509,ORIG-1,HOMATROPINE METHYLBROMIDE; HYDROCODONE BITARTRATE,PHARMAZONE,Not classified,Approval,Respiratory & Allergy,New generic,0
+2026-09-22,"CARBON DIOXIDE, USP",NDA,222000,ORIG-1,"CARBON DIOXIDE, USP",AGL WELDING SUPPLY CO INC DBA AGL GAS TECHNOLOGIES,Not classified,Approval,"Fluids, nutrition & other",New formulation / dosage form,0
+2026-09-23,PAXIL,NDA,020031,SUPPL-81,PAROXETINE HYDROCHLORIDE,APOTEX,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-23,PAXIL,NDA,020710,SUPPL-49,PAROXETINE HYDROCHLORIDE,APOTEX,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-23,PAXIL CR,NDA,020936,SUPPL-62,PAROXETINE HYDROCHLORIDE,APOTEX,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-23,CRESTOR,NDA,021366,SUPPL-48,ROSUVASTATIN CALCIUM,ASTRAZENECA,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-23,SPIRONOLACTONE,ANDA,040424,SUPPL-36,SPIRONOLACTONE,MYLAN,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-23,CLAFORAN,NDA,050547,SUPPL-72,CEFOTAXIME SODIUM,STERIMAX,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-23,GLIPIZIDE,ANDA,074305,SUPPL-33,GLIPIZIDE,AIPING PHARM INC,Manufacturing (CMC),Approval,Endocrine & Metabolic,Labeling / manufacturing update,0
+2026-09-23,DIVALPROEX SODIUM,ANDA,078791,SUPPL-21,DIVALPROEX SODIUM,IMPAX LABS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-23,DIVALPROEX SODIUM,ANDA,078791,SUPPL-22,DIVALPROEX SODIUM,IMPAX LABS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-23,DIVALPROEX SODIUM,ANDA,078791,SUPPL-23,DIVALPROEX SODIUM,IMPAX LABS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-23,DIVALPROEX SODIUM,ANDA,078791,SUPPL-24,DIVALPROEX SODIUM,IMPAX LABS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-23,DIVALPROEX SODIUM,ANDA,078791,SUPPL-25,DIVALPROEX SODIUM,IMPAX LABS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-23,DIVALPROEX SODIUM,ANDA,078791,SUPPL-26,DIVALPROEX SODIUM,IMPAX LABS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-23,HALOPERIDOL DECANOATE,ANDA,205241,SUPPL-8,HALOPERIDOL DECANOATE,GLAND,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-23,DABIGATRAN ETEXILATE MESYLATE,ANDA,208070,SUPPL-6,DABIGATRAN ETEXILATE MESYLATE,APOTEX,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-23,ATOVAQUONE,ANDA,209750,SUPPL-6,ATOVAQUONE,APOTEX,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-23,HALOPERIDOL DECANOATE,ANDA,211180,SUPPL-8,HALOPERIDOL DECANOATE,ZYDUS PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-23,TYVASO DPI,NDA,214324,SUPPL-7,TREPROSTINIL,UNITED THERAP,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-23,MEXILETINE HYDROCHLORIDE,ANDA,214598,ORIG-1,MEXILETINE HYDROCHLORIDE,ZYDUS PHARMS,Not classified,Approval,Cardiovascular & Renal,New generic,0
+2026-09-23,KETOROLAC TROMETHAMINE,ANDA,218355,ORIG-1,KETOROLAC TROMETHAMINE,SHANDONG,Not classified,Approval,Pain & Anesthesia,New generic,0
+2026-09-23,LYRFIGTU,NDA,220425,ORIG-1,LIRAFUGRATINIB HYDROCHLORIDE,ELEVAR,Type 1 - New Molecular Entity,Approval,Oncology,Novel drug (new molecule),0
+2026-09-23,NORGESTIMATE AND ETHINYL ESTRADIOL,ANDA,220876,ORIG-1,ETHINYL ESTRADIOL; NORGESTIMATE,ANNORA PHARMA,Not classified,Approval,Women's health & Urology,New generic,0
+2026-09-23,TEPEZZA,BLA,761143,SUPPL-33,TEPROTUMUMAB-TRBW,HORIZON THERAPEUTICS IRELAND,Not classified,Approval,Ophthalmology,Labeling / manufacturing update,0
+2026-09-23,ONSWIK,BLA,761408,ORIG-1,INSULIN EFSITORA ALFA-GOBE,ELI LILLY AND CO,Not classified,Approval,Endocrine & Metabolic,Novel drug (new molecule),0
+2026-09-24,VALIUM,NDA,013263,SUPPL-95,DIAZEPAM,WAYLIS THERAP,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-24,BUTORPHANOL TARTRATE PRESERVATIVE FREE,ANDA,074626,SUPPL-43,BUTORPHANOL TARTRATE,HOSPIRA,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-24,RISPERIDONE,ANDA,076440,SUPPL-9,RISPERIDONE,ANI PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-24,DORZOLAMIDE HYDROCHLORIDE,ANDA,078756,SUPPL-9,DORZOLAMIDE HYDROCHLORIDE,TEVA PHARMS,Labeling,Approval,Ophthalmology,Labeling / manufacturing update,0
+2026-09-24,IDARUBICIN HYDROCHLORIDE,ANDA,200144,SUPPL-4,IDARUBICIN HYDROCHLORIDE,RISING,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-24,IDARUBICIN HYDROCHLORIDE,ANDA,200144,SUPPL-5,IDARUBICIN HYDROCHLORIDE,RISING,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-24,ATOVAQUONE,ANDA,202960,SUPPL-23,ATOVAQUONE,AMNEAL PHARMS,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-24,LENVIMA,NDA,206947,SUPPL-35,LENVATINIB MESYLATE,EISAI INC,Efficacy,Approval,Oncology,New indication (efficacy supplement),0
+2026-09-24,DOXYCYCLINE HYCLATE,ANDA,209402,SUPPL-5,DOXYCYCLINE HYCLATE,CHANGZHOU PHARM,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-24,DOXYCYCLINE HYCLATE,ANDA,209402,SUPPL-13,DOXYCYCLINE HYCLATE,CHANGZHOU PHARM,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-24,DOXYCYCLINE HYCLATE,ANDA,209402,SUPPL-14,DOXYCYCLINE HYCLATE,CHANGZHOU PHARM,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-24,ARSENIC TRIOXIDE,ANDA,209780,SUPPL-6,ARSENIC TRIOXIDE,NEXUS,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-24,LINACLOTIDE,ANDA,211255,ORIG-1,LINACLOTIDE,ACTAVIS LABS FL,Not classified,Approval,Gastroenterology,New generic,0
+2026-09-24,ATOVAQUONE,ANDA,212918,SUPPL-8,ATOVAQUONE,BIONPHARMA,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-24,DAPTOMYCIN IN 0.9% SODIUM CHLORIDE,NDA,213645,SUPPL-4,DAPTOMYCIN,BAXTER HLTHCARE CORP,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-24,DAPZURA RT,NDA,213645,SUPPL-4,DAPTOMYCIN,BAXTER HLTHCARE CORP,Labeling,Approval,Infectious disease,Labeling / manufacturing update,1
+2026-09-24,PHENYLEPHRINE HYDROCHLORIDE,ANDA,215268,ORIG-1,PHENYLEPHRINE HYDROCHLORIDE,NEPHRON,Not classified,Approval,Pain & Anesthesia,New generic,0
+2026-09-24,WELIREG,NDA,215383,SUPPL-13,BELZUTIFAN,MERCK SHARP DOHME,Efficacy,Approval,Oncology,New indication (efficacy supplement),0
+2026-09-24,WELIREG,NDA,215383,SUPPL-17,BELZUTIFAN,MERCK SHARP DOHME,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-24,LISDEXAMFETAMINE DIMESYLATE,ANDA,215802,SUPPL-6,LISDEXAMFETAMINE DIMESYLATE,LANNETT CO INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-24,LISDEXAMFETAMINE DIMESYLATE,ANDA,215802,SUPPL-8,LISDEXAMFETAMINE DIMESYLATE,LANNETT CO INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-24,CRISABOROLE,ANDA,216242,ORIG-1,CRISABOROLE,MACLEODS PHARMS,Not classified,Approval,Immunology & Dermatology,New generic,0
+2026-09-24,LISDEXAMFETAMINE DIMESYLATE,ANDA,219258,SUPPL-6,LISDEXAMFETAMINE DIMESYLATE,GRANULES,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-24,LISDEXAMFETAMINE DIMESYLATE,ANDA,219258,SUPPL-8,LISDEXAMFETAMINE DIMESYLATE,GRANULES,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-25,CLARITIN,NDA,019658,SUPPL-64,LORATADINE,BAYER HEALTHCARE LLC,Labeling,Approval,Respiratory & Allergy,Labeling / manufacturing update,0
+2026-09-25,CLARITIN HIVES RELIEF,NDA,019658,SUPPL-64,LORATADINE,BAYER HEALTHCARE LLC,Labeling,Approval,Respiratory & Allergy,Labeling / manufacturing update,1
+2026-09-25,ARGATROBAN IN SODIUM CHLORIDE,NDA,022485,SUPPL-15,ARGATROBAN,PLANO PHARMS,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-25,CLOMID,ANDA,075528,SUPPL-30,CLOMIPHENE CITRATE,COSETTE,Manufacturing (CMC),Approval,Women's health & Urology,Labeling / manufacturing update,0
+2026-09-25,CABERGOLINE,ANDA,078035,SUPPL-12,CABERGOLINE,ACTAVIS LABS FL INC,Labeling,Approval,Endocrine & Metabolic,Labeling / manufacturing update,0
+2026-09-25,ATOMOXETINE HYDROCHLORIDE,ANDA,079019,SUPPL-18,ATOMOXETINE HYDROCHLORIDE,GLENMARK PHARMS LTD,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-25,ATOMOXETINE HYDROCHLORIDE,ANDA,079021,SUPPL-10,ATOMOXETINE HYDROCHLORIDE,STRIDES PHARMA,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-25,ROSUVASTATIN CALCIUM,ANDA,079171,SUPPL-16,ROSUVASTATIN CALCIUM,SANDOZ,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-25,CAPECITABINE,ANDA,090943,SUPPL-16,CAPECITABINE,RISING,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-25,LOSARTAN POTASSIUM,ANDA,091129,SUPPL-11,LOSARTAN POTASSIUM,WATSON LABS,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-25,ATOVAQUONE AND PROGUANIL HYDROCHLORIDE,ANDA,091211,SUPPL-15,ATOVAQUONE; PROGUANIL HYDROCHLORIDE,GLENMARK PHARMS LTD,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-25,ATOVAQUONE AND PROGUANIL HYDROCHLORIDE,ANDA,091211,SUPPL-17,ATOVAQUONE; PROGUANIL HYDROCHLORIDE,GLENMARK PHARMS LTD,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-25,KETOCONAZOLE,ANDA,091550,SUPPL-6,KETOCONAZOLE,PADAGIS ISRAEL,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-25,GAZYVA,BLA,125486,SUPPL-43,OBINUTUZUMAB,GENENTECH,Not classified,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-25,NAFCILLIN SODIUM,ANDA,203830,ORIG-1,NAFCILLIN SODIUM,STERISCIENCE,Not classified,Approval,Infectious disease,New generic,0
+2026-09-25,ACYCLOVIR,ANDA,204313,SUPPL-4,ACYCLOVIR,CADILA,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-25,ROSUVASTATIN CALCIUM,ANDA,207752,SUPPL-31,ROSUVASTATIN CALCIUM,BIOCON PHARMA,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-25,OLUMIANT,NDA,207924,SUPPL-9,BARICITINIB,ELI LILLY AND CO,Efficacy,Approval,Immunology & Dermatology,New indication (efficacy supplement),0
+2026-09-25,DUTASTERIDE,ANDA,207935,SUPPL-1,DUTASTERIDE,HERITAGE PHARMS INC,Labeling,Approval,Women's health & Urology,Labeling / manufacturing update,0
+2026-09-25,FINGOLIMOD HYDROCHLORIDE,ANDA,207991,SUPPL-4,FINGOLIMOD HYDROCHLORIDE,ACCORD HLTHCARE,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-25,FINGOLIMOD HYDROCHLORIDE,ANDA,208004,SUPPL-9,FINGOLIMOD HYDROCHLORIDE,ALKEM LABS LTD,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-25,FINGOLIMOD HYDROCHLORIDE,ANDA,208014,SUPPL-7,FINGOLIMOD HYDROCHLORIDE,SUN PHARM,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-25,THIAMINE HYDROCHLORIDE,ANDA,213131,ORIG-1,THIAMINE HYDROCHLORIDE,HONG KONG,Not classified,Approval,"Fluids, nutrition & other",New generic,0
+2026-09-25,LISDEXAMFETAMINE DIMESYLATE,ANDA,214547,SUPPL-8,LISDEXAMFETAMINE DIMESYLATE,NORWICH,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-25,LISDEXAMFETAMINE DIMESYLATE,ANDA,214547,SUPPL-11,LISDEXAMFETAMINE DIMESYLATE,NORWICH,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-25,ZUEINO,NDA,218379,ORIG-1,DICLOFENAC SODIUM,ADVENTAPHARMA,Type 5 - New Formulation or New Manufacturer,Approval,Pain & Anesthesia,New formulation / dosage form,0
+2026-09-25,METRONIDAZOLE,ANDA,218485,ORIG-1,METRONIDAZOLE,AUROBINDO PHARMA LTD,Not classified,Approval,Infectious disease,New generic,0
+2026-09-25,ESOMEPRAZOLE MAGNESIUM,ANDA,218687,ORIG-1,ESOMEPRAZOLE MAGNESIUM,NOVITIUM PHARMA,Not classified,Approval,Gastroenterology,New generic,0
+2026-09-25,GOBARDEN,NDA,219014,SUPPL-2,BENDAMUSTINE HYDROCHLORIDE,AVYXA HOLDINGS,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-25,JUVMO,NDA,220415,ORIG-1,TAVAPADON,ABBVIE,Type 1 - New Molecular Entity,Approval,Neurology,Novel drug (new molecule),0
+2026-09-25,JUVMO (COPACKAGED),NDA,220415,ORIG-1,TAVAPADON,ABBVIE,Type 1 - New Molecular Entity,Approval,Neurology,Novel drug (new molecule),1
+2026-09-25,APIXABAN,NDA,220446,ORIG-1,APIXABAN,LUPIN,Type 3 - New Dosage Form,Tentative Approval,Cardiovascular & Renal,Tentative approval,0
+2026-09-25,DILTIAZEM HYDROCHLORIDE,ANDA,220590,ORIG-1,DILTIAZEM HYDROCHLORIDE,YICHANG HUMANWELL,Not classified,Approval,Cardiovascular & Renal,New generic,0
+2026-09-25,KETOROLAC TROMETHAMINE,ANDA,221041,ORIG-1,KETOROLAC TROMETHAMINE,ADAPTIS,Not classified,Approval,Pain & Anesthesia,New generic,0
+2026-09-25,LAMLIQUE,NDA,221109,ORIG-1,LAMOTRIGINE HEMIFUMARATE,AZURITY,Type 2 - New Active Ingredient,Approval,Neurology,New formulation / dosage form,0
+2026-09-25,ATEBRIOZ,NDA,221198,ORIG-1,ZILURGISERTIB FUMARATE,MIRUM,Type 1 - New Molecular Entity,Approval,Musculoskeletal & Bone,Novel drug (new molecule),0
+2026-09-25,YUSIMRY,BLA,761216,SUPPL-11,ADALIMUMAB-AQVH,EMERGE BIOSCIENCE PTE LTD,Not classified,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-25,DEGEVMA,BLA,761481,ORIG-1,DENOSUMAB-ADET,"TEVA PHARMACEUTICALS, INC.",Not classified,Approval,Musculoskeletal & Bone,New biosimilar,0
+2026-09-28,CHILDREN'S ZYRTEC ALLERGY,NDA,021621,SUPPL-19,CETIRIZINE HYDROCHLORIDE,KENVUE BRANDS,Manufacturing (CMC),Approval,Respiratory & Allergy,Labeling / manufacturing update,0
+2026-09-28,CHILDREN'S ZYRTEC HIVES RELIEF,NDA,021621,SUPPL-19,CETIRIZINE HYDROCHLORIDE,KENVUE BRANDS,Manufacturing (CMC),Approval,Respiratory & Allergy,Labeling / manufacturing update,1
+2026-09-28,MINOCYCLINE HYDROCHLORIDE,ANDA,065470,SUPPL-17,MINOCYCLINE HYDROCHLORIDE,AUROBINDO PHARMA,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-28,BUMETANIDE,ANDA,074700,SUPPL-35,BUMETANIDE,SANDOZ,Manufacturing (CMC),Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-28,QUINAPRIL HYDROCHLORIDE,ANDA,076694,SUPPL-17,QUINAPRIL HYDROCHLORIDE,PHARMOBEDIENT,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-28,DEXMETHYLPHENIDATE HYDROCHLORIDE,ANDA,077107,SUPPL-14,DEXMETHYLPHENIDATE HYDROCHLORIDE,TEVA PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,DEXMETHYLPHENIDATE HYDROCHLORIDE,ANDA,077107,SUPPL-15,DEXMETHYLPHENIDATE HYDROCHLORIDE,TEVA PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,DEXMETHYLPHENIDATE HYDROCHLORIDE,ANDA,077107,SUPPL-17,DEXMETHYLPHENIDATE HYDROCHLORIDE,TEVA PHARMS,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,TRANEXAMIC ACID,ANDA,203521,SUPPL-26,TRANEXAMIC ACID,AVET LIFESCIENCES,Labeling,Approval,Hematology (non-cancer),Labeling / manufacturing update,0
+2026-09-28,POLYETHYLENE GLYCOL 3350,ANDA,209017,SUPPL-5,POLYETHYLENE GLYCOL 3350,AUROBINDO PHARMA LTD,Manufacturing (CMC),Approval,Gastroenterology,Labeling / manufacturing update,0
+2026-09-28,PREDNISOLONE ACETATE,ANDA,212778,ORIG-1,PREDNISOLONE ACETATE,UPSHER SMITH LABS,Not classified,Approval,Ophthalmology,New generic,0
+2026-09-28,METHYLPHENIDATE HYDROCHLORIDE,ANDA,213473,SUPPL-4,METHYLPHENIDATE HYDROCHLORIDE,GRANULES,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,METHYLPHENIDATE HYDROCHLORIDE,ANDA,213473,SUPPL-5,METHYLPHENIDATE HYDROCHLORIDE,GRANULES,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,METHYLPHENIDATE HYDROCHLORIDE,ANDA,213473,SUPPL-6,METHYLPHENIDATE HYDROCHLORIDE,GRANULES,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,METHYLPHENIDATE HYDROCHLORIDE,ANDA,213936,SUPPL-5,METHYLPHENIDATE HYDROCHLORIDE,ACCORD HLTHCARE,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,AQVESME,NDA,216196,SUPPL-7,MITAPIVAT SULFATE,AGIOS PHARMS INC,Manufacturing (CMC),Approval,Hematology (non-cancer),Labeling / manufacturing update,0
+2026-09-28,PYRUKYND,NDA,216196,SUPPL-7,MITAPIVAT SULFATE,AGIOS PHARMS INC,Manufacturing (CMC),Approval,Hematology (non-cancer),Labeling / manufacturing update,1
+2026-09-28,DEXMEDETOMIDINE HYDROCHLORIDE,ANDA,216254,ORIG-1,DEXMEDETOMIDINE HYDROCHLORIDE,NEPHRON,Not classified,Approval,Pain & Anesthesia,New generic,0
+2026-09-28,METHYLPHENIDATE HYDROCHLORIDE,ANDA,217229,SUPPL-5,METHYLPHENIDATE HYDROCHLORIDE,SUN PHARM INDS INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,METHYLPHENIDATE HYDROCHLORIDE,ANDA,217229,SUPPL-6,METHYLPHENIDATE HYDROCHLORIDE,SUN PHARM INDS INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,METHYLPHENIDATE HYDROCHLORIDE,ANDA,217229,SUPPL-7,METHYLPHENIDATE HYDROCHLORIDE,SUN PHARM INDS INC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-28,LABETALOL HYDROCHLORIDE,ANDA,218870,SUPPL-5,LABETALOL HYDROCHLORIDE,AMNEAL,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-28,EMCITATE,NDA,220963,ORIG-1,TIRATRICOL,RARE THYROID,Type 1 - New Molecular Entity,Approval,Endocrine & Metabolic,Novel drug (new molecule),0
+2026-09-28,RUXIENCE,BLA,761103,SUPPL-20,RITUXIMAB-PVVR,PFIZER INC,Not classified,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-29,DEXTROSE 10% AND SODIUM CHLORIDE 0.11% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,0
+2026-09-29,DEXTROSE 10% AND SODIUM CHLORIDE 0.2% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 10% AND SODIUM CHLORIDE 0.33% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 10% AND SODIUM CHLORIDE 0.45% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 10% AND SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 2.5% AND SODIUM CHLORIDE 0.11% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 2.5% AND SODIUM CHLORIDE 0.2% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 2.5% AND SODIUM CHLORIDE 0.33% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 2.5% AND SODIUM CHLORIDE 0.45% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 2.5% AND SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 3.3% AND SODIUM CHLORIDE 0.3% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 5% AND SODIUM CHLORIDE 0.11% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 5% AND SODIUM CHLORIDE 0.2% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 5% AND SODIUM CHLORIDE 0.33% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 5% AND SODIUM CHLORIDE 0.45% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,DEXTROSE 5% AND SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER,NDA,019631,SUPPL-53,DEXTROSE; SODIUM CHLORIDE,B BRAUN,Labeling,Approval,"Fluids, nutrition & other",Labeling / manufacturing update,1
+2026-09-29,RIFAMPIN,ANDA,091181,SUPPL-14,RIFAMPIN,FRESENIUS KABI USA,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-29,TRANEXAMIC ACID,ANDA,201580,SUPPL-10,TRANEXAMIC ACID,PHARMOBEDIENT,Labeling,Approval,Hematology (non-cancer),Labeling / manufacturing update,0
+2026-09-29,FENOFIBRATE (MICRONIZED),ANDA,201748,SUPPL-11,FENOFIBRATE,SUN PHARM INDS LTD,Labeling,Approval,Cardiovascular & Renal,Labeling / manufacturing update,0
+2026-09-29,AZITHROMYCIN,ANDA,203294,SUPPL-18,AZITHROMYCIN,EUGIA PHARMA,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-29,LACOSAMIDE,ANDA,204857,SUPPL-4,LACOSAMIDE,AMNEAL PHARMS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-29,LACOSAMIDE,ANDA,204857,SUPPL-8,LACOSAMIDE,AMNEAL PHARMS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-29,LACOSAMIDE,ANDA,204857,SUPPL-9,LACOSAMIDE,AMNEAL PHARMS,Labeling,Approval,Neurology,Labeling / manufacturing update,0
+2026-09-29,CLOZAPINE,ANDA,206433,SUPPL-20,CLOZAPINE,AUROBINDO PHARMA,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-29,CLOZAPINE,ANDA,206433,SUPPL-21,CLOZAPINE,AUROBINDO PHARMA,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-29,CLOZAPINE,ANDA,206433,SUPPL-26,CLOZAPINE,AUROBINDO PHARMA,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-29,CELECOXIB,ANDA,210071,SUPPL-5,CELECOXIB,CSPC OUYI,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-29,PIFELTRO,NDA,210806,SUPPL-14,DORAVIRINE,MSD MERCK CO,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-29,DELSTRIGO,NDA,210807,SUPPL-19,DORAVIRINE; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE,MSD MERCK CO,Labeling,Approval,Infectious disease,Labeling / manufacturing update,0
+2026-09-29,DAPAGLIFLOZIN,ANDA,211414,ORIG-1,DAPAGLIFLOZIN,BIONPHARMA INC,Not classified,Tentative Approval,Endocrine & Metabolic,Tentative approval,0
+2026-09-29,MUPIROCIN CALCIUM,ANDA,218361,ORIG-1,MUPIROCIN CALCIUM,ZYDUS LIFESCIENCES,Not classified,Approval,Immunology & Dermatology,New generic,0
+2026-09-29,RIABNI,BLA,761140,SUPPL-5,RITUXIMAB-ARRX,AMGEN INC,Not classified,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-29,EYDENZELT,BLA,761377,SUPPL-2,AFLIBERCEPT-BOAV,CELLTRION INC,Not classified,Approval,Ophthalmology,Labeling / manufacturing update,0
+2026-09-29,PONLIMSI,BLA,761385,SUPPL-6,DENOSUMAB-ADET,"TEVA PHARMACEUTICALS, INC.",Not classified,Approval,Musculoskeletal & Bone,Labeling / manufacturing update,0
+2026-09-29,AVTOZMA,BLA,761420,SUPPL-8,TOCILIZUMAB-ANOH,CELLTRION INC,Not classified,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-29,AVTOZMA,BLA,761498,SUPPL-3,TOCILIZUMAB-ANOH,CELLTRION INC,Not classified,Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-30,MATULANE,NDA,016785,SUPPL-44,PROCARBAZINE HYDROCHLORIDE,LEADIANT BIOSCI INC,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-30,XENICAL,NDA,020766,SUPPL-39,ORLISTAT,CHEPLAPHARM,Labeling,Approval,Endocrine & Metabolic,Labeling / manufacturing update,0
+2026-09-30,METHOTREXATE SODIUM,ANDA,040263,SUPPL-24,METHOTREXATE SODIUM,FRESENIUS KABI USA,Manufacturing (CMC),Approval,Immunology & Dermatology,Labeling / manufacturing update,0
+2026-09-30,INDOMETHACIN,ANDA,202139,SUPPL-7,INDOMETHACIN,MYLAN,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-30,CELECOXIB,ANDA,210628,SUPPL-18,CELECOXIB,PHARMAZONE,Labeling,Approval,Pain & Anesthesia,Labeling / manufacturing update,0
+2026-09-30,DOXEPIN HYDROCHLORIDE,ANDA,212624,SUPPL-20,DOXEPIN HYDROCHLORIDE,AJANTA PHARMA LTD,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-30,ZEPZELCA,NDA,213702,SUPPL-13,LURBINECTEDIN,JAZZ,Labeling,Approval,Oncology,Labeling / manufacturing update,0
+2026-09-30,CAMZYOS,NDA,214998,SUPPL-13,MAVACAMTEN,BRISTOL,Efficacy,Approval,Cardiovascular & Renal,New indication (efficacy supplement),0
+2026-09-30,DOXEPIN HYDROCHLORIDE,ANDA,215076,SUPPL-9,DOXEPIN HYDROCHLORIDE,ALEMBIC,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-30,ACETAZOLAMIDE,ANDA,218023,SUPPL-2,ACETAZOLAMIDE,EPIC PHARMA LLC,Labeling,Approval,Ophthalmology,Labeling / manufacturing update,0
+2026-09-30,ATOMOXETINE HYDROCHLORIDE,ANDA,218875,SUPPL-2,ATOMOXETINE HYDROCHLORIDE,PHARMAZONE,Labeling,Approval,Psychiatry,Labeling / manufacturing update,0
+2026-09-30,PHYTONADIONE,ANDA,219175,ORIG-1,PHYTONADIONE,LUPIN,Not classified,Approval,Hematology (non-cancer),New generic,0
+2026-09-30,LEVOCARNITINE,ANDA,220181,ORIG-1,LEVOCARNITINE,GLAND,Not classified,Approval,Endocrine & Metabolic,New generic,0
+2026-09-30,LOPERAMIDE HYDROCHLORIDE,ANDA,220722,ORIG-1,LOPERAMIDE HYDROCHLORIDE,TARO,Not classified,Approval,Gastroenterology,New generic,0
